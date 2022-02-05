@@ -64,24 +64,173 @@ Tests
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| {{< h 3 >}}Homework and classwork{{< /h >}} {{< br >}}{{< br >}} Homework and classwork include: {{< br >}}{{< br >}} *   Dynamics problems due in lecture - 10%{{< br >}}*   Recitation - 7%{{< br >}}*   MATLAB problems - 15%{{< br >}}*   Class participation - 3% {{< br >}}{{< br >}}  | 35% |
-| Two mid-term exams | 40% |
-| Final exam | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+### Homework and classwork
+
+Homework and classwork include:
+
+*   Dynamics problems due in lecture - 10%
+*   Recitation - 7%
+*   MATLAB problems - 15%
+*   Class participation - 3%
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two mid-term exams
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
 Lecture Calendar
 ----------------
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1-5 | {{< h 3 >}}I. Motion of a single particle{{< /h >}} {{< br >}}{{< br >}} Kinematics: Frames, transforming between frames, derivatives of vectors, velocity, acceleration, angular velocity, angular acceleration, centripetal terms, Coriolis terms {{< br >}}{{< br >}}  |
-| 6-12 | {{< h 3 >}}II. 2D Motion of system of particles{{< /h >}} {{< br >}}{{< br >}} Dynamics: Linear momentum principle, angular momentum principle for system of particles, 2D motion of rigid body: Momentum principles, inertia tensor, parallel axes theorem, instantaneous center of rotation, work-energy principle; variable mass systems {{< br >}}{{< br >}}  |
-| 13 | Exam 1 |
-| 14-18, 20 | {{< h 3 >}}III. Introduction to Lagrangian dynamics{{< /h >}} {{< br >}}{{< br >}} Generalized coordinates and forces; Lagrangian equations of motion for 2D holonomic systems of particles and rigid bodies. Helicopter dynamics {{< br >}}{{< br >}}  |
-| 19 | Exam 2 |
-| 21-25 | {{< h 3 >}}IV. Vibrations{{< /h >}} {{< br >}}{{< br >}} Phase plots, equilibria, linearization, stability. 1-DOF oscillations: natural frequencies, free-, damped-, and forced response; time response, frequency response, bode plots {{< br >}}{{< br >}}  |
-| 26 | Recap |
-| 27 | Final exam
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### I. Motion of a single particle
+
+Kinematics: Frames, transforming between frames, derivatives of vectors, velocity, acceleration, angular velocity, angular acceleration, centripetal terms, Coriolis terms
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### II. 2D Motion of system of particles
+
+Dynamics: Linear momentum principle, angular momentum principle for system of particles, 2D motion of rigid body: Momentum principles, inertia tensor, parallel axes theorem, instantaneous center of rotation, work-energy principle; variable mass systems
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-18, 20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### III. Introduction to Lagrangian dynamics
+
+Generalized coordinates and forces; Lagrangian equations of motion for 2D holonomic systems of particles and rigid bodies. Helicopter dynamics
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21-25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### IV. Vibrations
+
+Phase plots, equilibria, linearization, stability. 1-DOF oscillations: natural frequencies, free-, damped-, and forced response; time response, frequency response, bode plots
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Recap
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
