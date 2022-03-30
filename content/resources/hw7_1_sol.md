@@ -6,6 +6,7 @@ description: Solutions to a homework assignment on the derivation of the equatio
   oscillations.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-003j-dynamics-and-control-i-fall-2007/44c16c4695a7629d7065a10cccf1b49f_hw7_1_sol.pdf
 file_type: application/pdf
+parent_uid: e591073d-637f-2015-2c3a-dfe6470dee71
 resourcetype: Document
 title: hw7_1_sol.pdf
 uid: 44c16c46-95a7-629d-7065-a10cccf1b49f

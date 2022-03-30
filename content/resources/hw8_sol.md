@@ -4,6 +4,7 @@ description: Solutions to a homework assignment on a nonlinear parametric pendul
   the growth/decay of populations of animal species, and a double-well potential system.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-003j-dynamics-and-control-i-fall-2007/ec6ade0914ce4d7f69ede266d2298edc_hw8_sol.pdf
 file_type: application/pdf
+parent_uid: e591073d-637f-2015-2c3a-dfe6470dee71
 resourcetype: Document
 title: hw8_sol.pdf
 uid: ec6ade09-14ce-4d7f-69ed-e266d2298edc

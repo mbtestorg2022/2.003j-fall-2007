@@ -5,6 +5,7 @@ description: Lecture handout on kinematics, dynamics, how the course is laid out
   accelerations of given points.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-003j-dynamics-and-control-i-fall-2007/dfeddd3f1feb4d82ef161b066f6a6ba5_kinematics.pdf
 file_type: application/pdf
+parent_uid: d9e55a5b-0459-56e5-d20b-269f1fb7dcd5
 resourcetype: Document
 title: kinematics.pdf
 uid: dfeddd3f-1feb-4d82-ef16-1b066f6a6ba5
